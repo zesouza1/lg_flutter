@@ -27,7 +27,7 @@
 <br>
 
 ## Exercicio1
-<p>A ideia desse exercicio é criar uma lista de 10 produtos que contenha a imagem do produto, nome do produto, quantidade do produto e valor do produto.</p>
+<p>A ideia desse exercicio é criar uma lista de 8 produtos que contenha a imagem do produto, nome do produto, quantidade do produto e valor do produto.</p>
 <p>Segue abaixo o layout do exercicio, sendo de livre espontanea vontade a escolha dos produtos, assim como sua estilização.</p>
 
 ![Imagem do Exercicio 1](https://github.com/user-attachments/assets/51b4fe4d-9a16-4de1-917d-b09f7eab69e3)
